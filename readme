@@ -1,0 +1,8 @@
+What and how it does:
+A project designed to perform brute force attacks on specific websites. The program uses Python and Selenium to open the target website and web scraping techniques to locate the username and password input boxes. It then uses credentials from a details.yaml file to execute the brute force attack.
+
+Required Libraries:
+1.selenium
+2.yaml
+3.pandas
+4.sys
