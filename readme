@@ -1,6 +1,9 @@
 What PyBrute is and how it works:
 A project designed to perform brute force attacks on specific websites. The program uses Python and Selenium to open the target website and web scraping techniques to locate the username and password input boxes. It then uses credentials from a details.yaml file to execute the brute force attack.
 
+Tested vulnerability of :
+https://demo.testfire.net/login.jsp
+
 Required Libraries:
 1.selenium
 2.yaml
